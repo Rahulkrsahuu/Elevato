@@ -23,6 +23,8 @@
   },
   "homepage": "https://github.com/RahulSahu9431/Elevato#readme",
   "dependencies": {
+    "@fontsource/inter": "^5.2.8",
+    "@fontsource/jetbrains-mono": "^5.2.8",
     "@stream-io/node-sdk": "^0.7.12"
   }
 }
